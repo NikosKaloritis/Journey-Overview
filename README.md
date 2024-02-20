@@ -1,7 +1,7 @@
 # My Journey 
 
-Hello! I am Nikos and this is part of my journey and i have a B.Sc in Computer Science.
-I believe to be language agnostic with more knowledge in the set of low level languages.
+Hello! I am Nikos and this is part of my journey and i have a B.Sc in Computer Science.I 
+believe to be language agnostic with more knowledge in the set of low level languages.
 I have a great interest in computer graphics, math, both pure and applied, 
 low level technologies always actively discovering new skills. 
 
@@ -36,7 +36,7 @@ of port-a-cath devices in cancer patients by surgeons and medical assistants.
 The goal is the ability of training medical personnel through VR technologies
 minimizing medical errors that will have negative impact on patients.
 
--[Port a Cath Training VR (simulator walkthrough)](https://www.youtube.com/watch?v=64ogkiELXiw)
+- [Port a Cath Training VR (simulator walkthrough)](https://www.youtube.com/watch?v=64ogkiELXiw)
 
 ![image](https://github.com/NikosKaloritis/Journey-Overview/assets/115344643/16dd105f-5507-40ee-8f5a-55726bc58f7a)
 
