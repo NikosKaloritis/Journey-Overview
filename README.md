@@ -1,14 +1,15 @@
 # My Journey 
 
-Hello! I am Nikos and this is part of my journey and i have a B.Sc in Computer Science.I 
+Hello! I am Nikos and this is apart of my journey and i have a B.Sc in Computer Science.I 
 believe to be language agnostic with more knowledge in the set of low level languages.
-I have a great interest in computer graphics, math, both pure and applied, 
+I have a passion in computer graphics, math, both pure and applied, 
 low level technologies always actively discovering new skills. 
 
 My hobbies ➽ playing musical instruments, solving puzzles and stargazing!
 
-Currently, in my free time, i am working on my Vulkan game engine in (modern)C++
-and some small arduino projects and mo.
+Currently, in my free time, i am working on my Vulkan game engine in (modern) C++ 
+and some small arduino projects as well as webgl(Three.js). 
+Also planning to learn more about GPU-Powered Simulation.
 
 -----
 
