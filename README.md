@@ -12,7 +12,7 @@ and some small arduino projects and mo.
 
 -----
 
-# iPRISM Research group: Museum of Karditsa - Virutal Reality Meuseum  (2023 - present)
+# iPRISM Research group: Museum of Karditsa - Virutal Reality Meuseum  (2022 - present)
 
 Collaborated with the Meuseum of Karditsa to create an interactive website 
 for online visitors and enthusiasts about the exhibits of 1821's Greek War of Indepedance. 
@@ -29,8 +29,7 @@ as well as a database system used by a network of museums (as well as the websit
 
 -----
 
-iPRISM Research group: Port a Cath Training VR (2023 - 2024)
-
+# iPRISM Research group: Port a Cath Training VR (2022 - 2023)
 
 Developed and published a virtual reality simulator for the placement 
 of port-a-cath devices in cancer patients by surgeons and medical assistants. 
@@ -44,10 +43,14 @@ minimizing medical errors that will have negative impact on patients.
 Uploaded on Sidequest:
 https://sidequestvr.com/app/27588/port-a-cath-training-vr
 
+-----
+
+# Researcher - Software Engineer (2021-2022)
+## Hellenic Army, Centre Of Information Technology Support (KEPYES)
 
 -----
 
-# B.Sc Thesis
+# B.Sc Thesis 'Development of an Augmented Reality System for Indoor Navigation Assistance' (2021)
 
 My university thesis titled 'Development of an Augmented Reality System for Indoor Navigation Assistance'.
 A free large scale mobile AR map navigation system for all students to walk through university without the use of internet
@@ -69,7 +72,8 @@ https://github.com/NikosKaloritis/Journey-Overview/assets/115344643/ca64fa70-b75
 
 -----
 
-This is a co-op Puzzle Platformer game developed for a game architecture course while in university.
+# Co-Op Puzzle Platformer
+## This is a co-op Puzzle Platformer game developed for a game architecture course while in university. (2019-2020)
 
 https://github.com/NikosKaloritis/Journey-Overview/assets/115344643/3b2b0376-1abc-47e1-997f-9e9f5decfefc
 
@@ -80,7 +84,7 @@ https://github.com/NikosKaloritis/Journey-Overview/assets/115344643/3b2b0376-1ab
 
 -----
 
-Later that year i made a similar one, a little better, a little more entertaining, i hope.
+# Later that year i made a similar one, a little better, a little more entertaining, i hope. (2019-2020)
 
 https://github.com/NikosKaloritis/Journey-Overview/assets/115344643/de94db20-238e-4861-ba77-4d8525ad8562
 
@@ -91,7 +95,7 @@ https://github.com/NikosKaloritis/Journey-Overview/assets/115344643/de94db20-238
 
 -----
 
-A first try in the making of a 2D racing endless runner while in University. 2019-2020
+# A first try in the making of a 2D racing endless runner while in University. (2019-2020)
 First time i used object pooling to optimize a project.
 
 https://github.com/NikosKaloritis/Journey-Overview/assets/115344643/da8d50d9-8544-40c1-9a51-c4c7839e7dfa
