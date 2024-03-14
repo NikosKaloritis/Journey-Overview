@@ -14,9 +14,9 @@ Additionally, I'm engaged in constructing an Arduino-based CPU.
 
 -----
 
-# iPRISM Research group: Museum of Karditsa - Virutal Reality Meuseum  (2022 - present)
+# iPRISM Research group: Museum of Karditsa - Virutal Reality Museum  (2022 - present)
 
-Collaborated with the Meuseum of Karditsa to create an interactive website 
+Collaborated with the Museum of Karditsa to create an interactive website 
 for online visitors and enthusiasts about the exhibits of the 1821's Greek War of Independence. 
 The project comprises three parts: a 2D website, a 3D web app version, 
 and a database system used by a network of museums (as well as the websites)."
