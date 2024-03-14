@@ -1,16 +1,17 @@
 # My Journey 
 
 Hello! I'm Nikos Kaloritis, and this is a snapshot of my journey.
-With a B.Sc in Computer Science in hand, I'm like a language-agnostic explorer, 
-delving into the diverse world of programming and beyond. 
-I'm passionate about exploring new realms of knowledge, 
-from computer graphics and mathematics to the endless possibilities of learning.
+With a B.Sc in Computer Science in hand, and a language-agnostic approach, 
+I'm always exploring new realms of knowledge, from computer graphics and mathematics 
+to the endless possibilities of science and art. 
 
 My hobbies ➽ playing musical instruments, solving puzzles and stargazing!
 
 In my free time, I'm immersed in developing my Vulkan game engine in modern C++, 
-exploring the intricacies of ray tracing, WebGL (Three.js), and foundational mathematics. 
-Additionally, I'm engaged in constructing an Arduino-based CPU.
+exploring ray tracing, build an Arduino-based CPU and looking deeper into pure and applied mathematics,
+audio programming with JUCE, among others.
+
+I try to keep up with updating my repos and keeping them in good condition as much as i can! :>
 
 -----
 
