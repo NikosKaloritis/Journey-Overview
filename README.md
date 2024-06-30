@@ -7,10 +7,15 @@ to the endless possibilities of science and art.
 
 My hobbies ➽ playing musical instruments, solving puzzles and stargazing!
 
-In my free time, I'm immersed in developing my Vulkan game engine in modern C++, 
-exploring ray tracing, build an Arduino-based CPU and looking deeper into pure and applied mathematics,
+In my free time, I'm immersed in developing my Vulkan renderer in modern C++, unreal engine projects, 
+exploring ray tracing, build an Arduino-based CPU and looking deeper into pure and applied mathematics (= studying),
 audio programming with JUCE, among others.
 
+
+
+
+While i have a multitude of projects in different areas i don't have anything available online, so if 
+you want to talk about them ask me and i'll tell you everything!
 I try to keep up with updating my repos and keeping them in good condition as much as i can! :>
 
 -----
@@ -25,10 +30,11 @@ and a database system used by a network of museums (as well as the websites)."
 
 ## Tech Stack
 - [x] Three.js with javascript ES6
+- [x] Blender
 - [x] html5, css/scss, gsap
-- [x] Wordpress
+- [x] Wordpress - lemp
 - [x] Microsoft Azure
-- [x] MySql 8.0
+- [x] MySql 8.0 
 
 -----
 
